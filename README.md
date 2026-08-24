@@ -4,7 +4,7 @@ Aplicación desarrollada en Laravel que implementa el patrón MVC mediante un ca
 
 ---
 
-## ⚙️ Instrucciones de instalación
+## Instrucciones de instalación
 
 1. Clonar el repositorio en tu dispositivo.
 2. Abrir la carpeta del proyecto en Visual Studio Code.
@@ -13,7 +13,7 @@ Aplicación desarrollada en Laravel que implementa el patrón MVC mediante un ca
 
 ---
 
-## 🔄 Descripción del flujo MVC implementado
+## Descripción del flujo MVC implementado
 
 Ejemplo con la petición `GET /lugares`:
 
@@ -33,7 +33,7 @@ Para el formulario de contacto, el flujo cambia en la última etapa: en lugar de
 
 ---
 
-## 📸 Capturas de pantalla del sistema funcionando
+## Capturas de pantalla del sistema funcionando
 
 ### Listado de lugares
 ![Listado de lugares turísticos](screenshots/Lugares.JPG)
