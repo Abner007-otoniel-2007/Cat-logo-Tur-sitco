@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Abner González",
+        "email": "abner.gonzalez@gmail.com",
+        "lugar_id": "3",
+        "mensaje": "Cómo puedo llegar al lugar desde Santa Ana?",
+        "id": 1,
+        "fecha": "2026-08-23 19:22:49"
+    },
+    {
+        "nombre": "Diego Figueroa",
+        "email": "diego.figuero@ljfklsjkljakldjlie",
+        "lugar_id": "2",
+        "mensaje": "Muy bonito lugar.",
+        "id": 2,
+        "fecha": "2026-08-23 19:23:33"
+    },
+    {
+        "nombre": "Nicole Pineda",
+        "email": "nicole.pineda@hotmail.com",
+        "lugar_id": "3",
+        "mensaje": "Yo quiero ir a Joya de Cerén. Me parece un bonito lugar.",
+        "id": 3,
+        "fecha": "2026-08-23 19:58:11"
+    }
+]

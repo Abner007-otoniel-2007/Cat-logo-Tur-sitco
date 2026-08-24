@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "titulo": "Lago de Coatepeque",
+        "departamento": "Santa Ana",
+        "categoria": "Naturaleza",
+        "descripcion": "Un lago de origen volcánico rodeado de montañas, ideal para relajarse y practicar deportes acuáticos.",
+        "precio_entrada": 3.00,
+        "imagen": "coatepeque.jpg",
+        "horario": "6:00 am - 6:00 pm"
+    },
+    {
+        "id": 2,
+        "titulo": "Ruta de Las Flores",
+        "departamento": "Ahuachapán",
+        "categoria": "Pueblos y Cultura",
+        "descripcion": "Recorrido por pintorescos pueblos como Juayúa, Apaneca y Concepción de Ataco, conocidos por su gastronomía y artesanías.",
+        "precio_entrada": 0.00,
+        "imagen": "rutaflores.jpg",
+        "horario": "Todo el día"
+    },
+    {
+        "id": 3,
+        "titulo": "Joya de Cerén",
+        "departamento": "La Libertad",
+        "categoria": "Historia",
+        "descripcion": "Sitio arqueológico declarado Patrimonio de la Humanidad por la UNESCO, conocido como la 'Pompeya de América'.",
+        "precio_entrada": 3.00,
+        "imagen": "joyaceren.jpg",
+        "horario": "9:00 am - 4:00 pm"
+    },
+    {
+        "id": 4,
+        "titulo": "Puerto de La Libertad",
+        "departamento": "La Libertad",
+        "categoria": "Playa",
+        "descripcion": "Zona costera famosa por el surf, con playas como El Tunco y El Sunzal, además de su malecón y mariscos frescos.",
+        "precio_entrada": 0.00,
+        "imagen": "lalibertad.jpg",
+        "horario": "Todo el día"
+    },
+    {
+        "id": 5,
+        "titulo": "Parque Nacional Los Volcanes",
+        "departamento": "Santa Ana",
+        "categoria": "Naturaleza",
+        "descripcion": "Incluye el volcán de Izalco y el Cerro Verde, con senderos para caminata y vistas panorámicas.",
+        "precio_entrada": 1.00,
+        "imagen": "cerroverde.jpg",
+        "horario": "8:00 am - 4:30 pm"
+    },
+    {
+        "id": 6,
+        "titulo": "Suchitoto",
+        "departamento": "Cuscatlán",
+        "categoria": "Pueblos y Cultura",
+        "descripcion": "Pueblo colonial con calles empedradas, arte local, y vistas al Lago Suchitlán.",
+        "precio_entrada": 0.00,
+        "imagen": "suchitoto.jpg",
+        "horario": "Todo el día"
+    }
+]
