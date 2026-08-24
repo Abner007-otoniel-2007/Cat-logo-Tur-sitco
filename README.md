@@ -1,4 +1,4 @@
-# 🇸🇻 Catálogo Turístico de El Salvador
+# Catálogo Turístico de El Salvador
 
 Aplicación desarrollada en Laravel que implementa el patrón MVC mediante un catálogo de lugares turísticos de El Salvador, utilizando archivos JSON como fuente de datos.
 
